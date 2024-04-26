@@ -10,7 +10,8 @@ VSCode風を目指して
 - 日本語対応(UTF-8)
 
 ### 次の予定
-https://note.com/dd_techblog/n/n97f2b6ca09d8よりddc.vimの導入をしてPythonの補完を入れたい
+ddc.vimの導入をしてPythonの補完を入れたい
+[https://note.com/dd_techblog/n/n97f2b6ca09d8] 
 
 
 ## install.sh : 必要なものインストール
