@@ -5,6 +5,11 @@ set number
 set encoding=utf-8
 scriptencoding utf-8
 
+" かっこ補完
+imap { {}<LEFT>
+imap [ []<LEFT>
+imap ( ()<LEFT>
+
 "" VSCode風にする
 " ref : https://qiita.com/youichiro/items/b4748b3e96106d25c5bc
 
